@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #ef8172;
+    font-family: monospace;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+    font-family: monospace;
+}
+
+.row {
+    text-align:center;
+    font-family: monospace;
+}
+
+.good-doggy{
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.sxhuhj5ndyt{
+    text-align: center;
+    font-family: monospace;
+}
+
+.col-lg-6 {
+    font-family: monospace;
+    background-color: #ef8172;
+
+}
+
+.navbar-nav ms-auto {
+    background-color: #ef8172;
+}
+
+.helloppl{
+    text-align: center;
+    font-family: monospace;
+}
+
+.codez {
+    width: 50%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    font-family: monospace;
+}
+
+#cta {
+  text-align: center;
+  font-family: monospace;
+}
+
+#testimonials {
+    background-color: #ef8172;
+    font-family: monospace;
+}
+
+.hiii {
+    text-align: center;
+    padding: 7% 15%;
+    font-family: monospace;
+}
